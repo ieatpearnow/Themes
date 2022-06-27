@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "version": "0.0.1",
+    "transparency_mode": 3,
+    "author": "ieatpearnow#6124",
+    "name": "The Homies"
+  },
+  "background": {
+    "url": "https://media.discordapp.net/attachments/657807060158906387/990829675318218753/Undertale_wallpaper.jpg",
+    "overlay_alpha": 2,
+    "blur_radius": 0
+  },
+  "simple_colors": {},
+  "colors": {
+    "uikit_settings_item_text_color_light": -7786518,
+    "primary_700": -10973731,
+    "primary_dark_360": -2847250,
+    "primary_dark_200": -2302498
+  },
+  "drawable_tints": {}
+}
